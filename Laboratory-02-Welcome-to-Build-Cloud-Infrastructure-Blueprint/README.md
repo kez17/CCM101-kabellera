@@ -2,16 +2,21 @@
 
 ## Mission Overview
 
-This laboratory activity focuses on investigating and understanding the major components of cloud infrastructure. Using the KillerCoda Linux environment, the available operating system, compute resources, storage resources, and networking resources were examined and documented. The activity also included comparing the core infrastructure services offered by major cloud providers and creating a simple cloud infrastructure design.
+Congratulations! My onboarding has been successfully completed, and my Cloud Computing Portfolio has been approved by my supervisor.
+
+CloudNova Technologies has assigned me to my first official project. Before deploying cloud services, I need to understand the infrastructure that supports modern cloud computing. My mission is to investigate the components of cloud infrastructure and identify how compute, storage, networking, and identity services work together.
+
+Using the KillerCoda Playground, Linux tools, official cloud documentation, and my GitHub Cloud Computing Portfolio, I will complete a series of engineering tasks that simulate the planning phase of a cloud deployment. I will also document my findings as if I were preparing technical documentation for a client.
 
 ## Objectives
+At the end of this laboratory activity, I should be able to:
 
-- Explain the major components of cloud infrastructure.
-- Investigate the hardware and software resources available in a Linux environment.
-- Differentiate compute, storage, networking, and identity resources.
-- Understand how different cloud infrastructure components work together.
-- Create technical documentation using Markdown.
-- Continue building a structured GitHub Cloud Computing Portfolio.
+Explain the major components of cloud infrastructure.
+Investigate the hardware and software resources available in a Linux environment.
+Differentiate compute, storage, networking, and identity resources.
+Interpret the relationship between cloud infrastructure components.
+Create professional technical documentation using Markdown.
+Continue building a structured GitHub Cloud Computing Portfolio.
 
 ## Cloud Infrastructure Components
 
