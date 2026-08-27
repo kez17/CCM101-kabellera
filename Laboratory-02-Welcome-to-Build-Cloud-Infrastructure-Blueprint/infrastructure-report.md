@@ -1,6 +1,6 @@
 ## Infrastructure
+## Operating System
 ```text
-Operating System
 PRETTY_NAME="Ubuntu 24.04.4 LTS"
 NAME="Ubuntu"
 VERSION_ID="24.04"
