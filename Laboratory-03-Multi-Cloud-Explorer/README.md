@@ -16,9 +16,7 @@ This command displays important details about the operating system installed in 
 
 ### Terminal Evidence 1 – Operating System
 
-[KillerCoda Terminal 1 - Operating System](screenshots/killercoda-terminal1.png)
-
-[![KillerCoda Terminal 1 - Operating System](screenshots/killercoda-terminal1.png)](screenshots/killercoda-terminal1.png)
+![KillerCoda Terminal 1](screenshots/killercoda-terminal1.png)
 
 ---
 
@@ -34,10 +32,7 @@ This command provides information about the CPU architecture, processor count, c
 
 ### Terminal Evidence 2 – CPU Information
 
-[KillerCoda Terminal 2 - CPU Information](screenshots/killercoda-terminal2.png)
-
-[![KillerCoda Terminal 2 - CPU Information](screenshots/killercoda-terminal2.png)](screenshots/killercoda-terminal2.png)
-
+![KillerCoda Terminal 1](screenshots/killercoda-terminal2.png)
 ---
 
 ## 3. Memory
@@ -52,9 +47,7 @@ This command presents the system's memory information in a human-readable format
 
 ### Terminal Evidence 3 – Memory
 
-[KillerCoda Terminal 3 - Memory](screenshots/killercoda-terminal3.png)
-
-[![KillerCoda Terminal 3 - Memory](screenshots/killercoda-terminal3.png)](screenshots/killercoda-terminal3.png)
+![KillerCoda Terminal 1](screenshots/killercoda-terminal3.png)
 
 ---
 
@@ -70,10 +63,7 @@ This command shows the total storage capacity, used space, available space, and 
 
 ### Terminal Evidence 4 – Disk Space
 
-[KillerCoda Terminal 4 - Disk Space](screenshots/killercoda-terminal4.png)
-
-[![KillerCoda Terminal 4 - Disk Space](screenshots/killercoda-terminal4.png)](screenshots/killercoda-terminal4.png)
-
+![KillerCoda Terminal 1](screenshots/killercoda-terminal4.png)
 ---
 
 ## Linux System Information Summary
