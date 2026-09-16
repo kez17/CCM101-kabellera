@@ -18,13 +18,6 @@ docker info
 
 I used this command to check the current Docker environment and make sure Docker was working properly.
 
-### Docker Service Status
-
-```bash
-systemctl status docker
-```
-
-I used this command to check the current status of the Docker service.
 
 ## Checkpoint 4 - Nginx Deployment
 
