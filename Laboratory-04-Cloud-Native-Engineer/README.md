@@ -23,3 +23,11 @@ This laboratory activity focused on understanding cloud-native technologies, par
 docker --version
 docker info
 systemctl status docker
+```
+## Skills Learned
+
+I learned how to use basic Docker commands, run and manage containers, and check container status. I also learned how to organize and document my work in GitHub.
+
+## Challenges Encountered
+
+I had difficulty understanding Docker commands and port configuration. By checking my commands and container status, I was able to solve the issues.
