@@ -108,5 +108,5 @@ This command completely removed the stopped Nginx container.
 docker ps -a
 ```
 
-I used this command to check all containers and verify that the Nginx container had been removed.
+I used this command to list all containers and confirm that the Nginx container was removed.
 
