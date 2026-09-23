@@ -1,4 +1,4 @@
-# Mission 5: The Cloud Data Engineer
+# Laboratory 5: The Cloud Data Engineer
 
 ## Mission Overview
 
