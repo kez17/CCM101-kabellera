@@ -1,6 +1,4 @@
-### reflection.md
 
-```markdown
 # Mission Reflection
 
 Object storage is better suited for storing millions of photos because it is designed to store large amounts of unstructured data such as images, videos, and backups. Unlike traditional block storage, object storage stores each file as an object with its own data, metadata, and unique identifier. This makes it useful for applications that need to store and access many images.
