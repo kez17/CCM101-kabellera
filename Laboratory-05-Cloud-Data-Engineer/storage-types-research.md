@@ -1,4 +1,8 @@
-# Cloud Storage Types Research
+# Storage Types Research
+
+## Overview
+
+Cloud storage allows users to store, manage, and access data through the internet. It provides different storage types designed for different needs, including **Block Storage, File Storage, and Object Storage**. Each type has its own way of organizing and accessing data, making it suitable for different applications and workloads.
 
 ## Comparison of Cloud Storage
 
