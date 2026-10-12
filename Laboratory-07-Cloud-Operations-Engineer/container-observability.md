@@ -1,4 +1,6 @@
+# Container Observability
 
+## 404 Error Log Entry
 
 ## Why Application Logs Are Vital
 Application logs provide a timestamped record of every request, response, and error, allowing engineers to identify exactly when an issue occurred and what triggered it. They reveal specific details like status codes and requested paths that resource metrics alone cannot show, making them essential for fast, accurate troubleshooting.
