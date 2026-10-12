@@ -10,3 +10,6 @@
 ```
 
 ## Container Metrics
+
+- **Memory Usage:** 2.738MiB
+- **CPU Percentage:** 0.00%
