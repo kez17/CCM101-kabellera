@@ -1,14 +1,24 @@
-# Container Observability
+### Actual 404 Error Log
 
-## 404 Error Log Entry
+```text
+172.17.0.1 - - [12/Oct/2026:00:39:18 +0000] "GET /hidden-admin-page HTTP/1.1" 404 153 "-" "curl/8.5.0" "-"
+```
 
-## Why Application Logs Are Vital
-Application logs provide a timestamped record of every request, response, and error, allowing engineers to identify exactly when an issue occurred and what triggered it. They reveal specific details like status codes and requested paths that resource metrics alone cannot show, making them essential for fast, accurate troubleshooting.
+### Importance of Application Logs
 
-## Live Container Metrics
-| Metric | Observed Value |
+Application logs are important because they record HTTP requests, errors, and other events that help administrators identify problems. By examining these records, administrators can troubleshoot failed requests and determine the possible cause of application issues.
+
+## Real-Time Container Metrics
+
+Command executed:
+
+```bash
+docker stats
+```
+
+| Metric | Result |
 |---|---|
-| Memory Usage | [e.g. 2.3 MiB] |
-| CPU Percentage | [e.g. 0.00%] |
-| Network I/O (In / Out) | [e.g. 4.2 KiB / 1.8 KiB] |
-| Observed At | [Date / Time] |
+| Container Name | `client-website` |
+| Memory Usage | To be recorded from `docker stats` |
+| CPU Percentage | To be recorded from `docker stats` |
+
